@@ -23,10 +23,10 @@ DESCRIPTION_KEYWORDS:
 - ThisIsACaseSensitiveExample
 
 PRODUCT_KEYWORDS_I:
-- sudo
+- microsoft
 - docker
 - kubernetes
-- lxc
+- keycloak
 - podman
 - container
 - linux
